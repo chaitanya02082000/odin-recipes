@@ -26,3 +26,32 @@ ul{
     list-style-type: none;
     background-color: blueviolet;
 }
+
+body{
+    background-color: whitesmoke;
+
+}
+
+        /* If the link is unvisited you see this color*/
+        a:link {
+            color: #006600;
+            text-decoration: none;
+        }
+  
+        /* If the link is visited you see this color*/
+        a:visited {
+            color: rgb(255, 105, 223);
+            text-decoration: none;
+        }
+  
+        /* On placing mouse over the link */
+        a:hover {
+            color: rgb(128, 105, 255);
+            text-decoration: none;
+        }
+  
+        /* If the click the link,  you see this color*/
+        a:active {
+            color: rgb(255, 105, 138);
+            text-decoration: none;
+        }
