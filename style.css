@@ -1,6 +1,6 @@
 *{
     font-family: sans-serif;
-   
+    border-radius: 15px;
 }
 
 .heading{
@@ -19,5 +19,10 @@
 }
 
 ul{
+    color:aliceblue;
+    border: 7px solid palevioletred;
     margin: 20px;
+    padding: 20px;
+    list-style-type: none;
+    background-color: blueviolet;
 }
