@@ -1,5 +1,6 @@
 *{
     font-family: sans-serif;
+   
 }
 
 .heading{
@@ -9,12 +10,14 @@
     border-style: solid;
     border: 5px solid lightblue;
     padding: 20px;
+    margin: 30px;
 }
 
 .main-image{
     border: 10px solid plum;
+    margin: 30px;
 }
 
 ul{
-    background
+    margin: 20px;
 }
